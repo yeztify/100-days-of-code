@@ -24,3 +24,11 @@
 **Thoughts:** 
 
 **Link to work:**
+
+## Day 2: 
+
+**Today's Progress**: Types of input in HTML
+
+**Thoughts:** I'm still on the honeymoon phase so the roads ahead gonna be hard, I will keep striving.
+
+**Link to work:**
