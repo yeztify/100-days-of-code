@@ -32,3 +32,11 @@
 **Thoughts:** I'm still on the honeymoon phase so the roads ahead gonna be hard, I will keep striving.
 
 **Link to work:**
+
+## Day 3: 
+
+**Today's Progress**: HTML anatomy
+
+**Thoughts:** 
+
+**Link to work:**
