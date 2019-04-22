@@ -40,3 +40,20 @@
 **Thoughts:** 
 
 **Link to work:**
+
+## Day 4: 
+
+**Today's Progress**: Read some articles on Medium to find coding and design tips 
+
+**Thoughts:** I have to keep working even though I don't have time to code.
+
+**Link to work:**
+
+## Day 5: 
+
+**Today's Progress**: CSS class
+
+**Thoughts:** I really enjoy my learning til this very day even though I have experienced all of this.
+
+**Link to work:**
+
