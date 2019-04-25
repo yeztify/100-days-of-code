@@ -57,3 +57,20 @@
 
 **Link to work:**
 
+## Day 6: 
+
+**Today's Progress**: CSS id and attribute selector
+
+**Thoughts:** 
+
+**Link to work:**
+
+## Day 7: 
+
+**Today's Progress**: CSS margin and padding
+
+**Thoughts:** 
+
+**Link to work:**
+
+
