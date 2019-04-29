@@ -73,4 +73,20 @@
 
 **Link to work:**
 
+## Day 8: 
+
+**Today's Progress**: Read some Eloquent JS pages 
+
+**Thoughts:** 
+
+**Link to work:**
+
+## Day 9: 
+
+**Today's Progress**: CSS hierarchy
+
+**Thoughts:** 
+
+**Link to work:**
+
 
