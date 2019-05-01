@@ -89,4 +89,23 @@
 
 **Link to work:**
 
+## Day 10: 
+
+**Today's Progress**: Read some article about coding in medium 
+
+**Thoughts:** I am really exhausted with homework so I don't have time to code
+
+**Link to work:** 
+
+## Day 11: 
+
+**Today's Progress**: CSS hierarchy part 2
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+
+
 
