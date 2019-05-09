@@ -105,6 +105,15 @@
 
 **Link to work:**
 
+## Day 12: 
+
+**Today's Progress**: Completed basic CSS
+
+**Thoughts:** 
+
+**Link to work:**
+
+
 
 
 
