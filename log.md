@@ -113,6 +113,22 @@
 
 **Link to work:**
 
+## Day 13: 
+
+**Today's Progress**: CSS variables
+
+**Thoughts:** I took some day off because of the burnout of the schoolwork
+
+**Link to work:**
+
+## Day 14: 
+
+**Today's Progress**: Took some course on applied basic visual design
+
+**Thoughts:** 
+
+**Link to work:**
+
 
 
 
